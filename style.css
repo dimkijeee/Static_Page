@@ -54,6 +54,12 @@ header,
     border-radius: 50%;
 }
 
-*::-webkit-scrollbar { 
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+::-webkit-scrollbar {
+    background: transparent;
     display: none;
+    width: 0px;
 }
