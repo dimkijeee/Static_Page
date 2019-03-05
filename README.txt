@@ -1,3 +1,5 @@
+LINQ TO HOSTED PAGE: https://dimkijeee.github.io/staticPage/
+
 Material Design for Bootstrap
 
 Version: MDB Free 4.7.3
