@@ -63,3 +63,34 @@ html {
     display: none;
     width: 0px;
 }
+
+.carousel slide carousel-fade {
+    position: relative;
+     margin-bottom: 0px;
+}
+
+.carousel-indicators {
+    position: absolute;
+     top: 0;
+}
+
+.row border-bottom border-top {
+    height: 1px; 
+    margin-top: 20px;
+}
+
+.comments {
+    margin-top: 50px;
+}
+
+.page-footer font-small fixed-bottom{
+    background-color:#000!important;
+}
+
+.scrolling-footer {
+    background-color:#000!important;
+}
+
+.img-fluid {
+    margin-top: -20px;
+}
